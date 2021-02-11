@@ -21,7 +21,7 @@ Last Update: 2021-02-11
 
 ### PostgreSQL (2017-2020)
 
-- [flame-explain](https://github.com/felixge/flame-explain): An [online](https://flame-explain.com/) PostgreSQL EXPLAIN visualizer written in React/TypeScript. I was very excited about this and scheduled to speak about it at various conferences, but then this pandemic thing happened and I kind of burned out on the project : (.
+- [flame-explain](https://github.com/felixge/flame-explain): An [online](https://flame-explain.com/) PostgreSQL EXPLAIN visualizer written in React/TypeScript. I was very excited about this and scheduled to speak about it at various conferences. Then this pandemic thing happened and I kind of burned out on the project : (.
 - [state-machines](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/): A blog post showing how to implement state machines in PostgreSQL using user-defined aggregate functions.
 
 ### Node.js (mostly 2009-2011)
