@@ -10,12 +10,16 @@ Otherwise you can reach me at gh@felixge.de.
 
 - [dd-trace-go/profiler](https://github.com/DataDog/dd-trace-go/tree/v1/profiler): Working on this as part of my job for Datadog right now.
 - [go-profiler-notes](https://github.com/felixge/go-profiler-notes): In-depth research and writing on the various Go profilers.
+- [sqlbench](https://github.com/felixge/sqlbench): A Go tool that measures and compares the execution time of one or more PostgreSQL queries
 - [fgprof](https://github.com/felixge/fgprof): Experimental wall-clock profiler for Go.
-- [sqlbench](https://github.com/felixge/sqlbench): Measures and compares the execution time of one or more PostgreSQL queries
 - [httpsnoop](https://github.com/felixge/httpsnoop): Properly wraps the `http.ResponseWriter` interface in Go for monitoring.
 - [go-xxd](https://github.com/felixge/go-xxd): High performance Go implementation of the xxd utility. I got nerd sniped into this.
 - [godrone](https://github.com/felixge/godrone): Firmware for the Parrot AR Drone 2.0 written in Go, i.e. a flying garbage collector : ).
 - [tcpkeepalive](https://github.com/felixge/tcpkeepalive): Exposes TCP keepalive knobs & dials. There are probably better alternatives now.
+
+### PostgreSQL (2019-2020)
+
+- [flame-explain](https://github.com/felixge/flame-explain): An [online](https://flame-explain.com/) PostgreSQL EXPLAIN visualizer written in React/TypeScript. I was very excited about this and was scheduled to speak about it at various conferences, but then this pandemic thing happened and I kind of burned out on the project : (.
 
 ### Node.js (mostly 2009-2011)
 
