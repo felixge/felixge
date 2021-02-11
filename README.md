@@ -17,9 +17,10 @@ Otherwise you can reach me at gh@felixge.de.
 - [godrone](https://github.com/felixge/godrone): Firmware for the Parrot AR Drone 2.0 written in Go, i.e. a flying garbage collector : ).
 - [tcpkeepalive](https://github.com/felixge/tcpkeepalive): Exposes TCP keepalive knobs & dials. There are probably better alternatives now.
 
-### PostgreSQL (2019-2020)
+### PostgreSQL (2017-2020)
 
 - [flame-explain](https://github.com/felixge/flame-explain): An [online](https://flame-explain.com/) PostgreSQL EXPLAIN visualizer written in React/TypeScript. I was very excited about this and scheduled to speak about it at various conferences, but then this pandemic thing happened and I kind of burned out on the project : (.
+- [state-machines](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/): A blog post showing how to implement state machines in PostgreSQL using user-defined aggregate functions.
 
 ### Node.js (mostly 2009-2011)
 
@@ -37,6 +38,10 @@ Contributed [~150 patches](https://github.com/cakephp/cakephp/commits?author=fel
 ## Public Speaking
 
 I was very active on the conference circuit for a while. You can find an incomplete [list of talks](https://felixge.de/#speaking) on my website. Going forward I'm actively looking for opportunities to present on Go profiling related topics.
+
+## Blogging
+
+I have an infrequently updated blog: https://felixge.de/#blog
 
 ## Work
 
