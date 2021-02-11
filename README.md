@@ -1,16 +1,45 @@
-### Hi there 👋
+Hi there 👋. You're probably interested in my open source work, so here is a quick summary. I've also added a bit of work history.
 
-<!--
-**felixge/felixge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Please open a GitHub issue if you want to discuss something related to an open source project of mine. 
 
-Here are some ideas to get you started:
+Otherwise you can reach me at gh@felixge.de.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source
+
+### Go (2012-now)
+
+- [dd-trace-go/profiler](https://github.com/DataDog/dd-trace-go/tree/v1/profiler): Working on this as part of my job for Datadog right now.
+- [go-profiler-notes](https://github.com/felixge/go-profiler-notes): In-depth research and writing on the various Go profilers.
+- [fgprof](https://github.com/felixge/fgprof): Experimental wall-clock profiler for Go.
+- [sqlbench](https://github.com/felixge/sqlbench): Measures and compares the execution time of one or more PostgreSQL queries
+- [httpsnoop](https://github.com/felixge/httpsnoop): Properly wraps the `http.ResponseWriter` interface in Go for monitoring.
+- [go-xxd](https://github.com/felixge/go-xxd): High performance Go implementation of the xxd utility. I got nerd sniped into this.
+- [godrone](https://github.com/felixge/godrone): Firmware for the Parrot AR Drone 2.0 written in Go, i.e. a flying garbage collector : ).
+- [tcpkeepalive](https://github.com/felixge/tcpkeepalive): Exposes TCP keepalive knobs & dials. There are probably better alternatives now.
+
+### Node.js (2009-2011, 2014)
+
+Contributed [100+ patches](https://github.com/nodejs/node/commits?author=felixge) to the core involving promises, exception handling, fs, module system, utf8 (including a [patch for v8](https://codereview.chromium.org/121173009/)). Mea culpa for [process.on("uncaughtException")](https://github.com/nodejs/node/commit/2b252acea47af3ebeac3d7e68277f015667264cc) 🙈.
+
+Additionally I wrote a lot of [NPM modules](https://www.npmjs.com/~felixge), most notably:
+
+- [mysql](https://github.com/mysqljs/mysql): A pure JS implementation of the binary MySQL protocol.
+- [formidable](https://github.com/node-formidable/formidable): A multipart/form-data parser that's pretty fast.
+
+### CakePHP (2007-2009)
+
+Contributed [~150 patches](https://github.com/cakephp/cakephp/commits?author=felixge) to the core and made some good friends.
+
+### Public Speaking
+
+I was very active on the conference circuit for a while. You can find an incomplete [list of talks](https://felixge.de/#speaking) on my website. Going forward I'm actively looking for opportunities to present on Go profiling related topics.
+
+## Work
+
+My CV is available on request, but I'm not looking for a job right now.
+
+- **2021-Now**: Datadog, working on Continious Go Profiling.
+- **2014-2020**: Apple, working on secret manufacturing stuff using PostgreSQL and Go.
+- **2013-2014**: Thomson Reuters, contracted to work on Eikon Messanger XMPP server in Go. 􏱂􏰗􏰬􏰬􏰥􏰦􏰞􏰗􏰣 􏱇􏱂􏰫􏰫 􏰬􏰗
+- **2009-2013**: Transloadit, co-founded the business and wrote lots of Node.js code until it was profitable.
+- **2006-2008**: Freelancer, working for international clients while finishing high school.
