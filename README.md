@@ -30,8 +30,10 @@ Contributed [100+ patches](https://github.com/nodejs/node/commits?author=felixge
 
 Additionally I wrote a lot of [NPM modules](https://www.npmjs.com/~felixge), most notably:
 
-- [mysql](https://github.com/mysqljs/mysql): A pure JS implementation of the binary MySQL protocol.
+- [mysql](https://github.com/mysqljs/mysql): Pure JS implementation of the binary MySQL protocol.
 - [formidable](https://github.com/node-formidable/formidable): A multipart/form-data parser that's pretty fast.
+- [node-ar-drone](https://github.com/felixge/node-ar-drone): Implementation of the networking protocols used by the Parrot AR Drone 2.0. This one got a bit [out of control](http://www.nodecopter.com/).
+- [node-style-guide](https://github.com/felixge/node-style-guide): Not a module, but maybe it helped some people write better modules?
 
 ### CakePHP (2007-2009)
 
