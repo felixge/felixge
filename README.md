@@ -19,7 +19,7 @@ Otherwise you can reach me at gh@felixge.de.
 
 ### PostgreSQL (2019-2020)
 
-- [flame-explain](https://github.com/felixge/flame-explain): An [online](https://flame-explain.com/) PostgreSQL EXPLAIN visualizer written in React/TypeScript. I was very excited about this and was scheduled to speak about it at various conferences, but then this pandemic thing happened and I kind of burned out on the project : (.
+- [flame-explain](https://github.com/felixge/flame-explain): An [online](https://flame-explain.com/) PostgreSQL EXPLAIN visualizer written in React/TypeScript. I was very excited about this and scheduled to speak about it at various conferences, but then this pandemic thing happened and I kind of burned out on the project : (.
 
 ### Node.js (mostly 2009-2011)
 
