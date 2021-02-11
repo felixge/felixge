@@ -34,7 +34,7 @@ Additionally I wrote a lot of [NPM modules](https://www.npmjs.com/~felixge), mos
 
 Contributed [~150 patches](https://github.com/cakephp/cakephp/commits?author=felixge) to the core and made some good friends.
 
-### Public Speaking
+## Public Speaking
 
 I was very active on the conference circuit for a while. You can find an incomplete [list of talks](https://felixge.de/#speaking) on my website. Going forward I'm actively looking for opportunities to present on Go profiling related topics.
 
