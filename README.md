@@ -17,7 +17,7 @@ Otherwise you can reach me at gh@felixge.de.
 - [godrone](https://github.com/felixge/godrone): Firmware for the Parrot AR Drone 2.0 written in Go, i.e. a flying garbage collector : ).
 - [tcpkeepalive](https://github.com/felixge/tcpkeepalive): Exposes TCP keepalive knobs & dials. There are probably better alternatives now.
 
-### Node.js (2009-2011, 2014)
+### Node.js (mostly 2009-2011)
 
 Contributed [100+ patches](https://github.com/nodejs/node/commits?author=felixge) to the core involving promises, exception handling, fs, module system, utf8 (including a [patch for v8](https://codereview.chromium.org/121173009/)). Mea culpa for [process.on("uncaughtException")](https://github.com/nodejs/node/commit/2b252acea47af3ebeac3d7e68277f015667264cc) 🙈.
 
