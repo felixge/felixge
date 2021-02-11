@@ -40,6 +40,6 @@ My CV is available on request, but I'm not looking for a job right now.
 
 - **2021-Now**: Datadog, working on Continious Go Profiling.
 - **2014-2020**: Apple, working on secret manufacturing stuff using PostgreSQL and Go.
-- **2013-2014**: Thomson Reuters, contracted to work on Eikon Messanger XMPP server in Go. 􏱂􏰗􏰬􏰬􏰥􏰦􏰞􏰗􏰣 􏱇􏱂􏰫􏰫 􏰬􏰗
+- **2013-2014**: Thomson Reuters, contracted to work on Eikon Messanger XMPP server in Go.
 - **2009-2013**: Transloadit, co-founded the business and wrote lots of Node.js code until it was profitable.
 - **2006-2008**: Freelancer, working for international clients while finishing high school.
