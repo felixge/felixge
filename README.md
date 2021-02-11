@@ -4,6 +4,8 @@ Hi there 👋. You're probably interested in my open source work, so here is a q
 
 Otherwise you can reach me at gh@felixge.de.
 
+This page was last updated: 2021-02-11
+
 ## Open Source
 
 ### Go (2012-now)
