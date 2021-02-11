@@ -45,7 +45,7 @@ I was very active on the conference circuit for a while. You can find an incompl
 
 ## Blogging
 
-I have an infrequently updated blog: https://felixge.de/#blog
+I have an infrequently updated [blog](https://felixge.de/#blog) where I give [questionable advise](https://felixge.de/2013/03/11/the-pull-request-hack/) that ocassionally [compromises](https://gist.github.com/felixge/024827e7f09048d7bee2ad7c397e6ace) servers around the world.
 
 ## Work
 
