@@ -16,7 +16,7 @@ Last Update: 2021-02-11
 - [fgprof](https://github.com/felixge/fgprof): Experimental wall-clock profiler for Go.
 - [httpsnoop](https://github.com/felixge/httpsnoop): Properly wraps the `http.ResponseWriter` interface in Go for monitoring.
 - [go-xxd](https://github.com/felixge/go-xxd): High performance Go implementation of the xxd utility. I got nerd sniped into this.
-- [godrone](https://github.com/felixge/godrone): Firmware for the Parrot AR Drone 2.0 written in Go, i.e. a flying garbage collector : ).
+- [godrone](https://github.com/felixge/godrone): Firmware for the Parrot AR Drone 2.0 written in Go, i.e. an experiment to physically visualize the Go garbage collector : ).
 - [tcpkeepalive](https://github.com/felixge/tcpkeepalive): Exposes TCP keepalive knobs & dials. There are probably better alternatives now.
 
 ### PostgreSQL (2017-2020)
