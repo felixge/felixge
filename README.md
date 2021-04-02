@@ -36,6 +36,10 @@ Additionally I wrote a lot of [NPM modules](https://www.npmjs.com/~felixge), mos
 - [node-ar-drone](https://github.com/felixge/node-ar-drone): Implementation of the networking protocols used by the Parrot AR Drone 2.0. This one got a bit [out of control](http://www.nodecopter.com/).
 - [node-style-guide](https://github.com/felixge/node-style-guide): Not a module, but maybe it helped some people write better modules?
 
+### Misc
+
+- [tus](https://tus.io/): A protocol for resumable file uploads on the web that I wrote the initial version for. It's seen wide industry adoption since.
+
 ### CakePHP (2007-2009)
 
 Contributed [~150 patches](https://github.com/cakephp/cakephp/commits?author=felixge) to the core and made some good friends.
