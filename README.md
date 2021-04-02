@@ -10,6 +10,7 @@ Last Update: 2021-02-11
 
 ### Go (2012-now)
 
+- [sprof](https://github.com/felixge/sprof): A Go profiler based on static analysis. Note the release date.
 - [dd-trace-go/profiler](https://github.com/DataDog/dd-trace-go/tree/v1/profiler): Working on this as part of my job for Datadog right now.
 - [go-profiler-notes](https://github.com/felixge/go-profiler-notes): In-depth research and writing on the various Go profilers.
 - [sqlbench](https://github.com/felixge/sqlbench): A Go tool that measures and compares the execution time of one or more PostgreSQL queries
