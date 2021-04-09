@@ -4,12 +4,13 @@ Hi there 👋. You're probably interested in my open source work, so here is a q
 
 Otherwise you can reach me at gh@felixge.de.
 
-Last Update: 2021-04-02
+Last Update: 2021-04-09
 
 ## Open Source
 
 ### Go (2012-now)
 
+- [gostackparse](https://github.com/DataDog/gostackparse): A library that can parse Go stack traces at 300 MiB/s.
 - [sprof](https://github.com/felixge/sprof): A Go profiler based on static analysis. Note the release date.
 - [dd-trace-go/profiler](https://github.com/DataDog/dd-trace-go/tree/v1/profiler): Working on this as part of my job for Datadog right now.
 - [go-profiler-notes](https://github.com/felixge/go-profiler-notes): In-depth research and writing on the various Go profilers.
