@@ -4,13 +4,13 @@ Hi there 👋. You're probably interested in my open source work, so here is a q
 
 Otherwise you can reach me at gh@felixge.de.
 
-Last Update: 2021-04-13
+Last Update: 2021-06-19
 
 ## Open Source
 
 ### Go (2012-now)
 
-- [cl](https://github.com/felixge/pprofutils): Quickly clone git repositories into a nested folders like GOPATH.
+- [cl](https://github.com/felixge/cl): Quickly clone git repositories into a nested folders like GOPATH.
 - [pprofutils](https://github.com/felixge/pprofutils): Command line utilities for converting pprof files to text and vice versa.
 - [gostackparse](https://github.com/DataDog/gostackparse): A library that can parse Go stack traces at 300 MiB/s.
 - [sprof](https://github.com/felixge/sprof): A Go profiler based on static analysis. Note the release date.
