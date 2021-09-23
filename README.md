@@ -11,7 +11,7 @@ Last Update: 2021-06-19
 ### Go (2012-now)
 
 - [cl](https://github.com/felixge/cl): Quickly clone git repositories into a nested folders like GOPATH.
-- [pprofutils](https://github.com/felixge/pprofutils): Command line utilities for converting pprof files to text and vice versa.
+- [pprofutils](https://github.com/felixge/pprofutils): Swiss army knife for pprof files. Implemented as a command line utility as well as free web service.
 - [gostackparse](https://github.com/DataDog/gostackparse): A library that can parse Go stack traces at 300 MiB/s.
 - [sprof](https://github.com/felixge/sprof): A Go profiler based on static analysis. Note the release date.
 - [dd-trace-go/profiler](https://github.com/DataDog/dd-trace-go/tree/v1/profiler): Working on this as part of my job for Datadog right now.
