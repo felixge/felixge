@@ -49,7 +49,14 @@ Contributed [~150 patches](https://github.com/cakephp/cakephp/commits?author=fel
 
 ## Public Speaking
 
-I was very active on the conference circuit for a while. You can find an incomplete [list of talks](https://felixge.de/#speaking) on my website. Going forward I'm actively looking for opportunities to present on Go profiling related topics.
+Here is a list of recent talks:
+
+- [Go Profiling and Observability from Scratch](https://www.gophercon.com/agenda/session/596212) | [GopherCon 2021](https://www.gophercon.com/) | Dec 8, 2021
+- [Continuous Go Profiling & Observability](https://www.p99conf.io/session/continuous-go-profiling-observability/) | [P99 Conf](https://www.p99conf.io/) | [Video](https://www.youtube.com/watch?v=KiMxhKIKd5c) | [Slides](https://docs.google.com/presentation/d/1edVkJemsUoShHpApD227SztJxojQh3fKH3fhAA8ASrk/edit?usp=sharing) | Oct 6, 2021
+
+You can find an incomplete [list of previous talks](https://felixge.de/#speaking) on my website.
+
+Going forward I'm actively looking for opportunities to present on Go profiling related topics.
 
 ## Blogging
 
