@@ -10,6 +10,7 @@ Last Update: 2022-09-19
 
 ### Go (2012-now)
 
+- [traceutils](https://github.com/felixge/traceutils): Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top.
 - [fgtrace](https://github.com/felixge/fgtrace): An experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.
 - [cl](https://github.com/felixge/cl): Quickly clone git repositories into a nested folders like GOPATH.
 - [pprofutils](https://github.com/felixge/pprofutils): Swiss army knife for pprof files. Implemented as a command line utility as well as free web service.
